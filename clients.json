@@ -1,1 +1,11 @@
-
+{
+  "clients": [
+    {
+      "name": "Тестовый клиент",
+      "yandex_direct": "",
+      "metrika": "",
+      "vk": "",
+      "canva_template": ""
+    }
+  ]
+}
