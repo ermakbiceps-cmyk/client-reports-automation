@@ -1,9 +1,9 @@
 {
   "clients": [
     {
-      "name": "Клиент 1",
-      "yandex_login": "",
-      "yandex_token": "",
+      "name": "Поплыву к мечте",
+      "yandex_login": "poplyvukmechte",
+      "yandex_token": "y0__wgBEJ-M0IIIGO25SiCO1rmTGTDKyuKCCJqCDz-_HY81Q7n-ZliQH_oidaWy",
       "metrika_id": "",
       "vk_id": "",
       "canva_template": ""
